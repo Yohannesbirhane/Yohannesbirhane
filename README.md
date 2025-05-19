@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yohannes Birhane 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Student;Problem+Solver+%F0%9F%A4%96+%7C+Creative+Thinker;Real-World+Systems+Developer;Open+Source+Enthusiast+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Student;+%F0%9F%A4%96+%7C+;Open+Source+Enthusiast+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
