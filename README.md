@@ -1,17 +1,13 @@
 <h1 align="center">Hi there, I'm Yohannes Birhane 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Student;+Open+Source+Enthusiast+Always+Learning+Something+ alt="Typing SVG" />
-</p>
 
----
+
+
 
 ### 👨‍💻 About Me
 
 - 🎓 Software Engineering student at **Debre Berhan University**
 - 🛠️ Passionate about creating **real-world systems**
-
-- 📚 Exploring algorithms, system design, and UI/UX
 - 🌟 Focused on improving **performance, usability**, and **efficiency**
 
 ---
@@ -31,16 +27,6 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" width="95%" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
