@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yohannes Birhane 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Student;+%F0%9F%A4%96+%7C+;Open+Source+Enthusiast+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Student;+Open+Source+Enthusiast+Always+Learning+Something+ alt="Typing SVG" />
 </p>
 
 ---
