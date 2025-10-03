@@ -1,63 +1,61 @@
-# 👋 Hi, I'm Yohannes Birhane  
+<h1 align="center">Hi there, I'm Yohannes Birhane 👋</h1>
 
-🎓 **Software Engineering Student** at Debre Berhan University  
-💻 **Passionate Beginner Developer** | Learning by Building Real Projects  
-🌱 Currently exploring **C++**, **Java**, **Python**, **React**, and **Database Systems**
-
----
-
-## 🚀 About Me
-I’m a motivated software engineering student starting my developer journey.  
-I enjoy solving real-world problems through coding and learning modern technologies step by step.  
-Right now, I’m focusing on improving my programming logic and full-stack development skills.
-
----
-
-## 🧠 Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### ⚛️ Framework
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Student;Problem+Solver+%F0%9F%A4%96+%7C+Creative+Thinker;Real-World+Systems+Developer;Open+Source+Enthusiast+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-- Building full-stack applications using **React + SQL**
-- Writing clean, efficient, and maintainable code
-- Strengthening algorithms and data structures
+### 👨‍💻 About Me
+
+- 🎓 2nd Semester Software Engineering student at **Debre Berhan University**
+- 🛠️ Passionate about creating **real-world systems**
+- 💼 Currently building:
+  - 🚖 Bajaj Management System
+  - 🏋️ Gymnasium Management System (Qt + C++)
+  - 🚌 Transportation Schedule & Booking System (Hackathon)
+- 📚 Exploring algorithms, system design, and UI/UX
+- 🌟 Focused on improving **performance, usability**, and **efficiency**
 
 ---
 
-## 🎯 Goals
-- Build strong foundations in software development  
-- Develop real-world systems step by step  
-- Contribute to open-source projects  
-- Keep improving every single day 🚀
+### 🛠️ Tech Stack & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](#)
-- ✉️ Email: *yourname@email.com*
-- 🌐 Portfolio: *Coming soon...*
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" width="95%" />
+</p>
 
 ---
 
-⭐ **“The expert in anything was once a beginner.”**  
+### 📫 Connect with Me
+
+📧 Email: **yohannesb139@gmail.com**  
+🌐 Portfolio or LinkedIn: _Coming Soon_  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+⭐ *Thank you for visiting my GitHub profile — Let's code something amazing together!*
