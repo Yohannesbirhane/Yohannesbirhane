@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineering Student | 🚀 Problem Solver | 🌍 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;frontend+Developer+In+Progress;Building+Real+World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer+In+Progress;Building+Real+World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-| Languages | Frameworks | Tools & Databases |
-|-----------|------------|--------------------|
-| ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) | ![React](https://skillicons.dev/icons?i=react) ![Qt](https://skillicons.dev/icons?i=qt) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) |
+| **Languages** | **Web Development** | **Frameworks** | **Tools & Databases** |
+|---------------|----------------------|----------------|------------------------|
+| ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) | ![React](https://skillicons.dev/icons?i=react) ![Qt](https://skillicons.dev/icons?i=qt) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
 </div>
 
