@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineering Student | 🚀 Problem Solver | 🌍 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer+In+Progress;Building+Real+World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;frontend+Developer+In+Progress;Building+Real+World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
