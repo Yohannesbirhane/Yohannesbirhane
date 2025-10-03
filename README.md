@@ -12,29 +12,20 @@
 
 🎓 Software Engineering student at **Debre Berhan University**  
 💡 I love building **real-world systems** and solving challenges  
-⚙️ Passionate about **C++**, **Java**, **Python**, and **Web**  
+⚙️ Passionate about **C++**, **Java**, **Python**, and **Web Development**  
 🚀 Always learning and improving every day  
-
-
-
-### 🛠️ Skills, Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,qt,mysql,oracle,vscode,github" />
-</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Skills, Tools & Technologies  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="95%" />
-</p>
+| Languages | Frameworks | Tools & Databases |
+|-----------|------------|--------------------|
+| ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) | ![React](https://skillicons.dev/icons?i=react) ![Qt](https://skillicons.dev/icons?i=qt) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) |
+
+</div>
 
 ---
 
