@@ -15,15 +15,7 @@
 ⚙️ Passionate about **C++**, **Java**, **Python**, and **Web**  
 🚀 Always learning and improving every day  
 
----
 
-### 🚀 Featured Projects
-
-| 🚖 **Bajaj Management System** | 🏋️ **Gymnasium Management System** | 🚌 **Transportation Booking System** |
-|:------------------------------:|:----------------------------------:|:----------------------------------:|
-| Manage Bajaj registration, routes, and drivers | Built with **C++ & Qt**, for Debre Berhan University | University Hackathon project with **HTML, CSS, JS** |
-
----
 
 ### 🛠️ Skills, Tools & Technologies
 
