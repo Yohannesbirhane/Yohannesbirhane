@@ -1,161 +1,154 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Yohannes Birhane</span></h1>
-<h3 align="center">💻 Software Engineering Student</h3>
+<h1 align="center" style="color: #4F46E5;">👋 Hey there! I'm Yohannes Birhane</h1>
+<h3 align="center" style="color: #FF69B4;">✨ A passionate Software Engineering Student from Ethiopia 🌍</h3>
+
+<!-- You can add your own header image here if you have one -->
+<!-- ![Header Image](https://github.com/your-github-username/your-github-username/blob/main/your-header-image.png) -->
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;MERN+Stack+Enthusiast;PHP+%26+Spring+Boot+Developer;Building+Real+World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
-
-<!-- Animated Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-4F46E5" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-4F46E5" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Python-Learning-4F46E5" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/PHP-Learning-4F46E5" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-4F46E5" alt="MERN Badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Learning-4F46E5" alt="Spring Boot Badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Learning-4F46E5" alt="PostgreSQL Badge" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 🌱 **Currently Learning**
+Exploring **MERN Stack**, **Spring Boot**, and **PHP Development** to build full-stack applications.  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align="right">
-  
-  🎓 **Software Engineering student** at **Debre Berhan University**  
-  <br>
-  ⚙️ Passionate about **C++**, **Java**, **Python**, **PHP**, and **Web Development**  
-  <br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Currently coding and building cool stuff!**
-</div>
+### 👨‍💻 **Projects**
+🚀 [Check out my GitHub repositories](https://github.com/your-github-username)  
 
-<br>
+### 💬 **Ask me about**
+C++, Java, Web Development, Data Structures & Algorithms.  
 
-<!-- Animated Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding_Student-4F46E5?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2D2D2D" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-4F46E5?style=for-the-badge&logo=react&logoColor=white&labelColor=2D2D2D" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia-4F46E5?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=2D2D2D" />
-</p>
+### 📫 **Get in Touch**
+[Email Me](mailto:yohannesb139@gmail.com)  
 
-<!-- Animated Gradient Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<h3 align="left" style="color: #4F46E5;">🔗 Let's Connect!</h3>
+<p align="left">
+  <a href="mailto:yohannesb139@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
+  <a href="https://github.com/your-github-username" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" /></a>
 </p>
 
 ---
 
-### 🛠️ Skills, Tools & Technologies  
-
-<!-- Animated Skills Section Header -->
-<div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
-  <b>Tech Stack & Tools</b>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-</div>
-
-<br>
-
-<!-- Animated Skills Table with Hover Effects -->
-<div align="center">
-
-| **Languages** | **Frontend** | **Backend** | **Frameworks** | **Databases** | **Tools & Others** |
-|---------------|--------------|-------------|----------------|---------------|-------------------|
-| ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![PHP](https://skillicons.dev/icons?i=php&theme=dark) | ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![React](https://skillicons.dev/icons?i=react&theme=dark) | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) | ![Spring](https://skillicons.dev/icons?i=spring&theme=dark) ![Qt](https://skillicons.dev/icons?i=qt&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark) | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) |
-
-</div>
-
-<!-- Animated Skill Progress Bars -->
-<div align="center">
-  <h3>📊 Skill Proficiency</h3>
-  
-  <img src="https://progress-bar.dev/85/?title=C%2B%2B&width=150&color=4F46E5" />
-  <img src="https://progress-bar.dev/80/?title=Java&width=150&color=4F46E5" />
-  <img src="https://progress-bar.dev/75/?title=Python&width=150&color=4F46E5" />
-  <img src="https://progress-bar.dev/70/?title=PHP&width=150&color=4F46E5" />
-  <br>
-  <img src="https://progress-bar.dev/80/?title=JavaScript&width=150&color=4F46E5" />
-  <img src="https://progress-bar.dev/75/?title=React&width=150&color=4F46E5" />
-  <img src="https://progress-bar.dev/70/?title=Node.js&width=150&color=4F46E5" />
-  <img src="https://progress-bar.dev/75/?title=SQL&width=150&color=4F46E5" />
-</div>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<!-- Animated Coding Activity -->
-<div align="center">
-  <h3>⚡ Current Activity</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VhZDU5Y2U4YjU3YzQ3YzQ4YzQ3YzQ3YzQ3YzQ3YzQ3&rid=giphy.gif" width="30">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="90%">
-</div>
+---
 
-<!-- Animated Stats Cards -->
-<div align="center">
-  <h3>📈 Quick Stats</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5" width="48%" />
-</div>
-
-<!-- Animated Tech Stack Visualization -->
-<div align="center">
-  <h3>🔄 Tech Stack Flow</h3>
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,java,spring,python,mysql,postgresql,github,vscode&theme=dark&perline=5" />
-  
-  <!-- Animated Connection Lines -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30">
-    <b>Full Stack Developer in Action</b>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30">
-  </p>
-</div>
-
-<!-- Animated Working GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius: 10px;">
-  <br>
-  <i>⚡ Code. Learn. Repeat. ⚡</i>
-</div>
-
-<!-- Animated Wave Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+  <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-4F46E5" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-4F46E5" />
+  <img src="https://img.shields.io/badge/Python-Learning-4F46E5" />
+  <img src="https://img.shields.io/badge/PHP-Learning-4F46E5" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-4F46E5" />
+  <img src="https://img.shields.io/badge/React-Learning-4F46E5" />
+  <img src="https://img.shields.io/badge/Node.js-Learning-4F46E5" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Learning-4F46E5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Learning-4F46E5" />
 </p>
 
-<!-- Animated Social Links with Hover Effects -->
-<div align="center">
-  <h3>📫 Let's Connect!</h3>
-  
-  <a href="mailto:yohannesb139@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D" />
-  </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2D2D" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2D2D2D" />
-  </a>
-</div>
+---
 
-<!-- Animated Visitor Counter -->
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-github-username/count.svg" />
-  <br>
-  <i>Profile Views</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!-- Animated Footer Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+awesome!;Star+some+repos+if+you+like!;Happy+Coding!+🚀" alt="Footer Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<!-- Animated Star Badge -->
+---
+
+### 🌟 About Me 🌟
+
+Hello! I'm **Yohannes Birhane**, a passionate **Software Engineering Student** 💻 at **Debre Berhan University** in Ethiopia. My journey into the world of programming started with a curiosity for how things work, and that curiosity has grown into a deep passion for building innovative solutions.
+
+I specialize in **C++ and Java**, and I'm actively expanding my skills in **Python, PHP, and Full-Stack Web Development**. Currently, I'm diving deep into the **MERN stack, Spring Boot, and PostgreSQL** to become a well-rounded developer capable of building end-to-end applications.
+
+### My Interests 🎯:
+- **Backend Development** with **Java & Spring Boot**
+- **Desktop Applications** with **C++ & Qt**
+- **Full-Stack Web Development** with **MERN Stack**
+- **Database Management** with **MySQL, PostgreSQL & Oracle**
+
+### Problem Solving 🧠:
+I enjoy solving complex problems and continuously challenge myself with **Data Structures and Algorithms**. Programming isn't just about writing code—it's about finding elegant solutions to real-world problems.
+
+### Education 🎓:
+- **Software Engineering** student at **Debre Berhan University**
+
+### My Philosophy 💭:
+I believe in **continuous learning and improvement**. Every day is an opportunity to learn something new, build something better, and grow as a developer. I'm excited about the future of technology and eager to contribute to projects that make a difference.
+
+### Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on projects 💡, discuss **programming concepts** 💻, or just chat about technology! Let's learn and grow together. 🚀
+
+---
+
+### 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-MERN%20Stack-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Spring%20Boot-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-PostgreSQL-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-PHP-4F46E5?style=for-the-badge" />
+</p>
+
+---
+
+### 📈 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white" />
+</p>
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="150" />
+</p>
+
+<p align="center">
+  ⭐ *Feel free to star my repositories if you find them interesting!* ⭐
 </p>
