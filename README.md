@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Yohannes Birhane</span></h1>
-<h3 align="center">💻 Software Engineering Student | 🚀 Problem Solver | 🌍 Lifelong Learner</h3>
+<h3 align="center">💻 Software Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;MERN+Stack+Enthusiast;PHP+%26+Spring+Boot+Developer;Building+Real+World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
@@ -11,10 +11,9 @@
 ### 🌟 About Me
 
 🎓 Software Engineering student at **Debre Berhan University**  
-💡 I love building **real-world systems** and solving challenges  
+
 ⚙️ Passionate about **C++**, **Java**, **Python**, **PHP**, and **Web Development**  
-🌱 Currently diving deep into **MERN Stack**, **Spring Boot**, and **PHP Development**  
-🚀 Always learning and improving every day  
+ 
 
 ---
 
@@ -30,22 +29,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 📈 Current Stats & Streak
 
